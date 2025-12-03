@@ -1,4 +1,4 @@
-[Bill of Materials - Sheet1 (1).csv](https://github.com/user-attachments/files/23916155/Bill.of.Materials.-.Sheet1.1.csv)# Hexapod
+# Hexapod
 I've been very interested by other hexapod projects online, and wanted to try and build one myself. I want to participate in Blueprint to secure funding for some parts of the robot, and get started with building.
 
 **Pictures of 3D Model:**
