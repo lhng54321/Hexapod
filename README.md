@@ -14,6 +14,7 @@ I've been very interested by other hexapod projects online, and wanted to try an
 
 <img width="1138" height="613" alt="image" src="https://github.com/user-attachments/assets/32b8e430-7dd4-48c3-930d-21459d72d876" />
 
+[Bill of Materials - Sheet1 (2).csv](https://github.com/user-attachments/files/23916240/Bill.of.Materials.-.Sheet1.2.csv)
 Item Name,Description,Qty,Unit Price,Orders Required,Link
 MG996R Servo,High torque servos,20,$150.00,1,Link
 Pimoroni Servo 2040,Servo controller,1,$29.95,1,Link
@@ -31,4 +32,17 @@ MCIGICM 12 AWG Inline Fuse Holder,Inline fuse holder,5,$9.99,1,Link
 Rubber Feet Isolators,Silicon bumpers,16,$9.95,1,Link
 ELEGOO 120pcs Multicolored Dupont Wire,Wires for FSR and servo logic,120,$6.98,1,Link
 Raspberry Pi 5,Microcomputer,1,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
 TOTAL COST,$405.55,,,,
