@@ -1,4 +1,4 @@
-# Hexapod
+[Bill of Materials - Sheet1 (3).csv](https://github.com/user-attachments/files/23969191/Bill.of.Materials.-.Sheet1.3.csv)# Hexapod
 I've been very interested by other hexapod projects online, and wanted to try and build one myself. I want to participate in Blueprint to secure funding for some parts of the robot, and get started with building.
 
 **Pictures of 3D Model:**
@@ -14,7 +14,7 @@ I've been very interested by other hexapod projects online, and wanted to try an
 
 <img width="1138" height="613" alt="image" src="https://github.com/user-attachments/assets/32b8e430-7dd4-48c3-930d-21459d72d876" />
 
-Item Name,Description,Qty,Unit Price,Orders Required,Link
+[Uploading Bill Item Name,Description,Qty,Unit Price,Orders Required,Link
 MG996R Servo,High torque servos,20,$150.00,1,Link
 Pimoroni Servo 2040,Servo controller,1,$29.95,1,Link
 OVONIC 3s 11.1V Lipo Battery 8000mAh,Battery,2,$62.99,1,Link
@@ -44,4 +44,4 @@ Raspberry Pi 5,Microcomputer,1,,,
 ,,,,,
 ,,,,,
 ,,,,,
-TOTAL COST,$405.55,,,,
+TOTAL COST,$405.55,,,,of Materials - Sheet1 (3).csv…]()
