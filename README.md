@@ -18,38 +18,7 @@ The full 3D model is designed in Onshape:
 
 <img width="1138" height="613" alt="image" src="https://github.com/user-attachments/assets/32b8e430-7dd4-48c3-930d-21459d72d876" />
 
-[Bill of Materials - Sheet1 (3).csv](https://github.com/user-attachments/files/23969196/Bill.of.Materials.-.Sheet1.3.csv)
-Item Name,Description,Qty,Unit Price,Orders Required,Link
-MG996R Servo,High torque servos,20,$150.00,1,Link
-Pimoroni Servo 2040,Servo controller,1,$29.95,1,Link
-OVONIC 3s 11.1V Lipo Battery 8000mAh,Battery,2,$62.99,1,Link
-5A DC-DC Adjustable Buck Converter,Buck converter,4,$9.99,1,Link
-2Pcs Thin Film Pressure Sensor 20g-2Kg,Force Sensitive Resistor,2,$8.92,3,Link
-DaierTek DPST KCD4 Rocker Switch 40A,Power switch,3,$7.99,1,Link
-30Amp 300V 2x12 Position Terminal Block,Terminal block,2,$13.99,1,Link
-Szwengao 12V/24V to 6V DC DC Converter 40A,Buck converter,1,$15.00,1,Link
-Donepart 625-2RS Ball Bearings,Ball bearing,10,$7.99,1,Link
-6 Gauge Wire,Wire for distributing high current servo power,5 ft,$19.99,1,Link
-12 Gauge Wire,Wire for distributing low current power,25 ft,$23.99,1,Link
-BOJACK 10 Values 300 Pcs Ceramic Capacitor,Servo capacitors,300,$9.99,1,Link
-MCIGICM 12 AWG Inline Fuse Holder,Inline fuse holder,5,$9.99,1,Link
-Rubber Feet Isolators,Silicon bumpers,16,$9.95,1,Link
-ELEGOO 120pcs Multicolored Dupont Wire,Wires for FSR and servo logic,120,$6.98,1,Link
-Raspberry Pi 5,Microcomputer,1,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-TOTAL COST,$405.55,,,,
+
 
 **Markdown:**
 | Item Name                                  | Description                                    | Qty   | Unit Price | Orders Required | Link                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
