@@ -3,7 +3,7 @@ I've been very interested by other hexapod projects online, and wanted to try an
 
 The full 3D model is designed in Onshape:
 
- Onshape Link: (https://cad.onshape.com/documents/56fc24e16bb75bdb082bd181/w/d34afcf4f3d50482d9d2dbfe/e/758f83e67bbc9d7f8e05e8a3?renderMode=0&uiState=693766c4271da1ce52e661de)
+ Onshape Link: https://cad.onshape.com/documents/56fc24e16bb75bdb082bd181/w/d34afcf4f3d50482d9d2dbfe/e/758f83e67bbc9d7f8e05e8a3?renderMode=0&uiState=693766f0271da1ce52e66286
  
 **Pictures of 3D Model:**
 
