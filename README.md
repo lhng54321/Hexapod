@@ -16,8 +16,7 @@ The full 3D model is designed in Onshape:
 
 **BOM (bill of materials):**
 
-<img width="1138" height="613" alt="image" src="https://github.com/user-attachments/assets/32b8e430-7dd4-48c3-930d-21459d72d876" />
-
+<img width="1242" height="607" alt="image" src="https://github.com/user-attachments/assets/5e7bc945-1d44-4084-9419-20bc7c8127d9" />
 
 
 **Markdown:**
