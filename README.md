@@ -21,21 +21,87 @@ The full 3D model is designed in Onshape:
 
 
 **Markdown:**
-Item Name	Description	Qty	Unit Price	Orders Required	Link
-MG996R Servo	High torque servos	20	$150.00	1	Link
-Pimoroni Servo 2040	Servo controller	1	$29.95	1	Link
-OVONIC 3s 11.1V Lipo Battery 8000mAh	Battery	2	$62.99	1	Link
-5A DC-DC Adjustable Buck Converter	Buck converter	4	$9.99	1	Link
-2Pcs Thin Film Pressure Sensor 20g-2Kg	Force Sensitive Resistor	2	$8.92	3	Link
-DaierTek DPST KCD4 Rocker Switch 40A	Power switch	3	$7.99	1	Link
-30Amp 300V 2x12 Position Terminal Block	Terminal block	2	$13.99	1	Link
-Szwengao 12V/24V to 6V DC DC Converter 40A	Buck converter	1	$15.00	1	Link
-Donepart 625-2RS Ball Bearings	Ball bearing	6	$7.99	1	Link
-6 Gauge Wire	Wire for distributing high current servo power	1 meter	$3.50	1	Link
-12 Gauge Wire	Wire for distributing low current power	2 meter	$0.18	1	Link
-BOJACK 10 Values 300 Pcs Ceramic Capacitor	Servo capacitors	300	$6.06	1	Link
-MCIGICM 12 AWG Inline Fuse Holder	Inline fuse holder	5	$9.99	1	Link
-Rubber Feet Isolators	Silicon bumpers	16	$9.95	1	Link
-ELEGOO 120pcs Multicolored Dupont Wire	Wires for FSR and servo logic	120	$6.98	1	Link
-TOTAL COST	$361.32				
+[
+  {
+    "Item Name": "MG996R Servo",
+    "Description": "High torque servos",
+    "Qty": "20",
+    "Unit Price": "$150.00",
+    "Orders Required": "1",
+    "Link ": "Link ",
+    "": ""
+  },
+  {
+    "Item Name": "Pimoroni Servo 2040",
+    "Description": "Servo controller",
+    "Qty": "1",
+    "Unit Price": "$29.95",
+    "Orders Required": "1",
+    "Link ": "Link ",
+    "": ""
+  },
+  {
+    "Item Name": "OVONIC 3s 11.1V Lipo Battery 8000mAh",
+    "Description": "Battery",
+    "Qty": "2",
+    "Unit Price": "$62.99",
+    "Orders Required": "1",
+    "Link ": "Link ",
+    "": ""
+  },
+  {
+    "Item Name": "5A DC-DC Adjustable Buck Converter",
+    "Description": "Buck converter",
+    "Qty": "4",
+    "Unit Price": "$9.99",
+    "Orders Required": "1",
+    "Link ": "Link ",
+    "": ""
+  },
+  {
+    "Item Name": "2Pcs Thin Film Pressure Sensor 20g-2Kg",
+    "Description": "Force Sensitive Resistor",
+    "Qty": "2",
+    "Unit Price": "$8.92",
+    "Orders Required": "3",
+    "Link ": "Link ",
+    "": ""
+  },
+  {
+    "Item Name": "DaierTek DPST KCD4 Rocker Switch 40A",
+    "Description": "Power switch",
+    "Qty": "3",
+    "Unit Price": "$7.99",
+    "Orders Required": "1",
+    "Link ": "Link ",
+    "": ""
+  },
+  {
+    "Item Name": "30Amp 300V 2x12 Position Terminal Block",
+    "Description": "Terminal block",
+    "Qty": "2",
+    "Unit Price": "$13.99",
+    "Orders Required": "1",
+    "Link ": "Link ",
+    "": ""
+  },
+  {
+    "Item Name": "Szwengao 12V/24V to 6V DC DC Converter 40A",
+    "Description": "Buck converter",
+    "Qty": "1",
+    "Unit Price": "$15.00",
+    "Orders Required": "1",
+    "Link ": "Link ",
+    "": ""
+  },
+  {
+    "Item Name": "Donepart 625-2RS Ball Bearings",
+    "Description": "Ball bearing",
+    "Qty": "6",
+    "Unit Price": "$7.99",
+    "Orders Required": "1",
+    "Link ": "Link ",
+    "": ""
+  }
+]
 
